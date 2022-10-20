@@ -4,4 +4,8 @@ public class KidsGameCalculator extends GameCalculator {
     public void hesapla(){
 
     }
+
+    public void randomOtherFunc(){
+
+    }
 }
