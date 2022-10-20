@@ -4,7 +4,8 @@ public abstract class GameCalculator {
     public final void gameOver(){
         System.out.println("Oyun bitti.");
     }
-    public void randomFunc(){
+
+    public void randomOtherFunc(){
 
     }
 }
